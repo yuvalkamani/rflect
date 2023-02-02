@@ -1,0 +1,16 @@
+*{
+    text-align: center;
+    background-color: #F9F5E7;
+}
+
+
+.heading{
+    font-size: 250px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.startNow{
+    font-size: 20px;
+    font-family: 'Quicksand', sans-serif;
+    margin:5%;
+}
